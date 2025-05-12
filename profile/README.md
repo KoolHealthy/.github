@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/h8KTX9Tk9gfNAxnhF1/giphy.gif" width="400" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG9yaWw2eXdvOXV5YmQyaG45OHJ5MHUxbHVoZjFjZ2llYzFpN2x4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" width="400" style="border-radius: 10px;"/>
 </p>
 
 <div align="center">
@@ -168,6 +168,6 @@ At **KOOLHEALTHY**, we transform personal health through intelligent technology.
   </div>
   
   <p style="font-size: 12px; margin-top: 20px; color: #aaa;">
-    Last updated: 2025-05-12 10:42:22 by yasmineCH03
+    Last updated: 2025-05-12 10:45:20 by yasmineCH03
   </p>
 </div>
